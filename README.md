@@ -6,7 +6,7 @@
 
 Soy un joven muy curioso, con mucha capacidad de aprendizaje y una inquietud por querer aprender siempre algo nuevo.
 
-Actualmente soy egresado de Henry, donde complete satisfactoriamente el bootcamp de Full Stack Developer. Donde aprendí muchas cosas interesantes y las que me despertaron un gran interés por seguir en este camino en el cual nunca se deja de aprender.
+Actualmente soy Full Stack Developer. Durante el camino aprendí muchas cosas interesantes y las que me despertaron un gran interés por seguir en este rumbo en el cual nunca se deja de aprender.
 
 ## <b>¿Que hago? ¿Hacia donde me dirijo?</b>
 
