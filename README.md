@@ -2,7 +2,7 @@
 
 About
 
-<b>Hola! Aqui hay un poco sobre mi...</b>
+<b margin-bottom: 1px solid black>Hola! Aqui hay un poco sobre mi...</b>
 
 <b>¿Quien soy?</b>
 
