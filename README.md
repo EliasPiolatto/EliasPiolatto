@@ -1,6 +1,6 @@
 # Elias-Piolatto
 
-# <b>Hola! Aqui hay un poco sobre mi...</b>
+# <b>Hola! Te cuento un poco sobre mi...</b>
 
 ## <b>¿Quien soy?</b>
 
