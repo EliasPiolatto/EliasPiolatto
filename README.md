@@ -1,4 +1,4 @@
-#                                                                             Elias-Piolatto
+# Elias-Piolatto
 
 # <b>Hola! Aqui hay un poco sobre mi...</b>
 
