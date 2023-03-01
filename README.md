@@ -14,7 +14,7 @@ Anteriormente he ejercido en industrias alimenticias como analista de calidad de
 También estuve involucrado en los negocios inmobiliarios como gestor, interviniente entre las partes, por lo que adquirí buen manejo de programas de Office y capacidad de administración.
 
 En resumen, actualmente me encuentro ofreciendo principalmente mis servicios como Full Stack Developer, 
-con conocimiento en: | HTML5 | CSS | JavaScript | React | Redux | Express | Node.JS | PostgresSQL | Sequelize. En este ámbito espero lograr muchos resultados positivos, ya sea en relación de dependencia o independiente, al mismo tiempo de seguir creciendo cada día enriqueciéndome de nuevos conocimientos.
+con conocimiento en: | HTML | CSS | JavaScript | React | Redux | Express | Node.JS | PostgresSQL | Sequelize. En este ámbito espero lograr muchos resultados positivos, ya sea en relación de dependencia o independiente, al mismo tiempo de seguir creciendo cada día enriqueciéndome de nuevos conocimientos.
 
 ## <b>¿Tecnologias que uso?</b>
 
