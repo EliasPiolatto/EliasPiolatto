@@ -2,7 +2,7 @@
 
 About
 
-<b>Hola! Aqui hay un poco sobre mi...</b>
+#<b>Hola! Aqui hay un poco sobre mi...</b>
 
 <b>¿Quien soy?</b>
 
