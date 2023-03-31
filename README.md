@@ -25,7 +25,7 @@ con conocimiento en: | HTML | CSS | JavaScript | React | Redux | Express | Node.
 ## <b>¿Tecnologias que uso?</b>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,bootstrap,react,redux,sequelize,postgres,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,bootstrap,react,redux,sequelize,postgres=light)](https://skillicons.dev)
 
 
 ## <b>No dudes en contactarme: </b>
