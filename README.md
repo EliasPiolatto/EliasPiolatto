@@ -19,13 +19,13 @@ Anteriormente he ejercido en industrias alimenticias como analista de calidad de
 También estuve involucrado en los negocios inmobiliarios como gestor, interviniente entre las partes, por lo que adquirí buen manejo de programas de Office y capacidad de administración.
 
 En resumen, actualmente me encuentro ofreciendo principalmente mis servicios como Full Stack Developer con una inclinacion a *Frontend* ya que disfruto de poner en practica mi creatividad, 
-con conocimiento en: | HTML | CSS | JavaScript | React | Redux | Express | Node.JS | PostgresSQL | Sequelize. En este ámbito espero lograr muchos resultados positivos, ya sea en relación de dependencia o independiente, al mismo tiempo de seguir creciendo cada día enriqueciéndome de nuevos conocimientos.
+con conocimiento en: | HTML | CSS | JavaScript | React | Redux | Express | Node.JS | PostgresSQL | Sequelize | MongoDB | Docker | Microservicios | Maquinas virtuales. En este ámbito espero lograr muchos resultados positivos, ya sea en relación de dependencia o independiente, al mismo tiempo de seguir creciendo cada día enriqueciéndome de nuevos conocimientos.
 
 
 ## <b>¿Tecnologias que uso?</b>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,bootstrap,react,redux,sequelize,postgres=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,bootstrap,react,redux,sequelize,postgres,mongodb,docker=light)](https://skillicons.dev)
 
 
 ## <b>No dudes en contactarme: </b>
